@@ -1,3 +1,5 @@
+# Deprecated, use https://github.com/adainrivers/dune-dedicated-server-manager
+
 # Dune Server Management Service
 
 Server-local automation for a self-hosted Dune: Awakening dedicated server.
